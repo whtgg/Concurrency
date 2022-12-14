@@ -1,1 +1,0 @@
-/Users/wanghaitao/data/project/rustlang/selfwork/Concurrency/Rust/target/debug/thread: /Users/wanghaitao/data/project/rustlang/selfwork/Concurrency/Rust/thread/src/lib.rs /Users/wanghaitao/data/project/rustlang/selfwork/Concurrency/Rust/thread/src/main.rs
