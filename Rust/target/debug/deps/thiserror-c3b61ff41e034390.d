@@ -1,0 +1,10 @@
+/Users/wanghaitao/data/project/rustlang/selfwork/Concurrency/Rust/target/debug/deps/thiserror-c3b61ff41e034390.rmeta: /Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/lib.rs /Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/aserror.rs /Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/display.rs /Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/provide.rs
+
+/Users/wanghaitao/data/project/rustlang/selfwork/Concurrency/Rust/target/debug/deps/libthiserror-c3b61ff41e034390.rlib: /Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/lib.rs /Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/aserror.rs /Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/display.rs /Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/provide.rs
+
+/Users/wanghaitao/data/project/rustlang/selfwork/Concurrency/Rust/target/debug/deps/thiserror-c3b61ff41e034390.d: /Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/lib.rs /Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/aserror.rs /Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/display.rs /Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/provide.rs
+
+/Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/lib.rs:
+/Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/aserror.rs:
+/Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/display.rs:
+/Users/wanghaitao/.cargo/registry/src/mirrors.ustc.edu.cn-61ef6e0cd06fb9b8/thiserror-1.0.37/src/provide.rs:
